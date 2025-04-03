@@ -1,0 +1,3 @@
+/home/alin/Desktop/RC/VirtualSoc/build/CMakeFiles/VirtualSoc.dir
+/home/alin/Desktop/RC/VirtualSoc/build/CMakeFiles/edit_cache.dir
+/home/alin/Desktop/RC/VirtualSoc/build/CMakeFiles/rebuild_cache.dir

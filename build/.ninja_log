@@ -1,0 +1,22 @@
+# ninja log v6
+32	18078	1733162387147854926	CMakeFiles/client.dir/imgui/imgui_tables.cpp.o	adcfa3a45d05a825
+5	12540	1736324859283738046	CMakeFiles/VirtualSoc.dir/imgui/imgui_draw.cpp.o	c70079e078f5538c
+7972	8958	1736324867250090639	CMakeFiles/VirtualSoc.dir/imgui/imgui_impl_opengl3.cpp.o	452544f8ffdfbf76
+38	22528	1733162387151188416	CMakeFiles/client.dir/imgui/imgui_widgets.cpp.o	afef8c21b89bfe67
+4	198	1733238709042291259	CMakeFiles/VirtualSoc.dir/server.cpp.o	8e3748ec92328a08
+5	2637	1733233948030959162	CMakeFiles/VirtualSoc.dir/main.cpp.o	133d05fd55120fda
+23	18819	1733162387137854455	CMakeFiles/client.dir/imgui/imgui_draw.cpp.o	49ca17a80af87101
+18692	25852	1733162405808734222	CMakeFiles/client.dir/main.cpp.o	66591aa320cf8f3c
+4267	4752	1736414417134446680	VirtualSoc	a2fc5cdbe2da1106
+7	4266	1736414412874395260	CMakeFiles/VirtualSoc.dir/client.cpp.o	236b5074319d645d
+3	262	1733238763716735479	CMakeFiles/server.dir/server.cpp.o	49a5548542baee41
+2	111	1737484216082508543	build.ninja	4943fbfca579338
+18081	20547	1733162405195371963	CMakeFiles/client.dir/imgui/imgui_impl_opengl3.cpp.o	3e2a294ae6205f3
+12841	21271	1733162399955124899	CMakeFiles/client.dir/imgui/imgui_impl_sdl2.cpp.o	6c42197a17d697aa
+6	8068	1736324859283738046	CMakeFiles/VirtualSoc.dir/imgui/imgui_tables.cpp.o	5c149b06fd8dd351
+3	14572	1736324859280404845	CMakeFiles/VirtualSoc.dir/imgui/imgui.cpp.o	238e129c5ed4dfb8
+9	12075	1736324859287071248	CMakeFiles/VirtualSoc.dir/imgui/imgui_widgets.cpp.o	7de7c9e33cbb791d
+10	7972	1736324859290404450	CMakeFiles/VirtualSoc.dir/imgui/imgui_impl_sdl2.cpp.o	ba549640331efdcf
+16	21344	1733162387131187474	CMakeFiles/client.dir/imgui/imgui.cpp.o	e32d2417a734b1d2
+23	18692	1733162387137854455	CMakeFiles/client.dir/imgui/imgui_demo.cpp.o	bce97d79702ed2de
+6	9219	1736324859283738046	CMakeFiles/VirtualSoc.dir/imgui/imgui_demo.cpp.o	819122ab82f24253
